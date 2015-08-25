@@ -1,4 +1,4 @@
-some java variables/types:
+some java primatives:
 
 byte (number, 1 byte)
 short (number, 2 bytes)
