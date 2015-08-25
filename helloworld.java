@@ -13,3 +13,20 @@ public class Main {
  *println > prints that line out
  */
  
+ 
+ //Create all the the primitives with different values. C
+ //oncatenate them into a string and print it to the screen so it will print: H3110 w0r1d 2.0 true
+ 
+ public class Main2 {
+    public static void main2(String[] args) {
+        byte zero = 0;
+        short a = 3;
+        int b = 1;
+        char d = ' ';
+        float e = 2.0f;
+        boolean f = true;
+        String output = "H" + a + b + b + zero + d + "w" + zero + "r" + b + "d" + d + e + d + f;
+        System.out.println(output);
+    }
+}
+ 
