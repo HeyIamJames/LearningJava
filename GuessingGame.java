@@ -6,6 +6,9 @@ public class GuessingGame {
         
         Random rand = new Random();
         int numberToGuess = rand.nextInt(1000);
+        int numberOfTries = 0;
+        
+        System.out.println("Guess a number 1-1000")
         
     }
 }
