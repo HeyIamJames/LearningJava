@@ -12,6 +12,10 @@ public class GuessingGame {
         int guess;
         
         System.out.println("Guess a number 1-1000")
+        guess = input.nextInt();
+        numberOfTries++;
+        
+        if 
         
     }
 }
