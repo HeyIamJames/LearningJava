@@ -15,7 +15,11 @@ public class GuessingGame {
         guess = input.nextInt();
         numberOfTries++;
         
-        if 
+        if (guess == numberToGuess)(
         
+        )
+        else if (guess < numberToGuess)(
+        
+        )
     }
 }
